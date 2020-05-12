@@ -1,4 +1,4 @@
-# todo-app
+# Todo App of Vue JS Crash Course By Traversy Media
 
 ## Project setup
 ```
